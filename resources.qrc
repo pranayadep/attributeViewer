@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/mbb_validator" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
